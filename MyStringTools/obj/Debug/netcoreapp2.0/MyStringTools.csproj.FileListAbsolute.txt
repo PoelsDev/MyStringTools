@@ -1,0 +1,9 @@
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyStringTools\MyStringTools\bin\Debug\netcoreapp2.0\MyStringTools.deps.json
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyStringTools\MyStringTools\bin\Debug\netcoreapp2.0\MyStringTools.dll
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyStringTools\MyStringTools\bin\Debug\netcoreapp2.0\MyStringTools.pdb
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyStringTools\MyStringTools\obj\Debug\netcoreapp2.0\MyStringTools.csprojResolveAssemblyReference.cache
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyStringTools\MyStringTools\obj\Debug\netcoreapp2.0\MyStringTools.csproj.CoreCompileInputs.cache
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyStringTools\MyStringTools\obj\Debug\netcoreapp2.0\MyStringTools.AssemblyInfoInputs.cache
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyStringTools\MyStringTools\obj\Debug\netcoreapp2.0\MyStringTools.AssemblyInfo.cs
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyStringTools\MyStringTools\obj\Debug\netcoreapp2.0\MyStringTools.dll
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyStringTools\MyStringTools\obj\Debug\netcoreapp2.0\MyStringTools.pdb

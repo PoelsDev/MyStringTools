@@ -1,0 +1,16 @@
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyStringTools\MyStringToolsTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyStringTools\MyStringToolsTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyStringTools\MyStringToolsTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyStringTools\MyStringToolsTests\bin\Debug\netcoreapp2.0\MyStringToolsTests.deps.json
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyStringTools\MyStringToolsTests\bin\Debug\netcoreapp2.0\MyStringToolsTests.runtimeconfig.json
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyStringTools\MyStringToolsTests\bin\Debug\netcoreapp2.0\MyStringToolsTests.runtimeconfig.dev.json
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyStringTools\MyStringToolsTests\bin\Debug\netcoreapp2.0\MyStringToolsTests.dll
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyStringTools\MyStringToolsTests\bin\Debug\netcoreapp2.0\MyStringToolsTests.pdb
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyStringTools\MyStringToolsTests\bin\Debug\netcoreapp2.0\MyStringTools.dll
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyStringTools\MyStringToolsTests\bin\Debug\netcoreapp2.0\MyStringTools.pdb
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyStringTools\MyStringToolsTests\obj\Debug\netcoreapp2.0\MyStringToolsTests.csprojResolveAssemblyReference.cache
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyStringTools\MyStringToolsTests\obj\Debug\netcoreapp2.0\MyStringToolsTests.csproj.CoreCompileInputs.cache
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyStringTools\MyStringToolsTests\obj\Debug\netcoreapp2.0\MyStringToolsTests.AssemblyInfoInputs.cache
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyStringTools\MyStringToolsTests\obj\Debug\netcoreapp2.0\MyStringToolsTests.AssemblyInfo.cs
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyStringTools\MyStringToolsTests\obj\Debug\netcoreapp2.0\MyStringToolsTests.dll
+H:\documents\INFORMATICA\TESTEN\OPG (1)\OPG\MyStringTools\MyStringToolsTests\obj\Debug\netcoreapp2.0\MyStringToolsTests.pdb
